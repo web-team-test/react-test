@@ -6,7 +6,7 @@
 
 1. Entering a To-Do task within text input and clicking "Add Task" should add the task to the list of To-Do tasks. If "Add Task" is clicked without entering any text an Alert or Error containing "Please enter Task" should be dispalyed.
 
-2. Clicking the close button of the tasks within the list should delete/it from the list. Clicking the checkbox next to the task should apply "strikethrough" for the task text
+2. Clicking the close button of the tasks within the list should delete/it from the list. Clicking the checkbox next to the task should apply "strikethrough" for the task text and Mark as "Done"
 
 ### Additional Considerations:
 
